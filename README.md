@@ -33,4 +33,7 @@ python bot.py
 - Aprender conceptos básicos de desarrollo de bots
 - Practicar programación con Python
 - Entender la interacción con APIs de mensajería
-- Implementar buenas prácticas de seguridad con credenciales
+- Implementar buenas prácticas de seguridad con credenciales.
+
+## Información del Bot
+ID del Bot: 7614471139
